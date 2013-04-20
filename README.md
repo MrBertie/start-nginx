@@ -7,20 +7,22 @@ How To Use
 ------
 Place the 2 files (start-nginx.exe, start-nginx.ini) into the root of your Nginx server folder.  E.g.
 
-Nginx
-    └ conf
-    └ contrib
-    └ docs
-    └ logs
-    └ php
-        └ ...
-        └ php-cgi.exe
-        └...
-    └ temp
-    └ html
-      nginx.exe
-      start-nginx.exe
-      start-nginx.ini
+```
+    Nginx
+        └ conf
+        └ contrib
+        └ docs
+        └ logs
+        └ php
+            └ ...
+            └ php-cgi.exe
+            └...
+        └ temp
+        └ html
+            nginx.exe
+            start-nginx.exe
+            start-nginx.ini
+```
       
 By default the program assumes that the php executable (php-cgi-exe) is in the "php" folder, and that all Nginx are in the default "conf" folder.
 
