@@ -1,7 +1,7 @@
 ﻿Nginx Starter
 ======
 
-A simple Windows program to start and stop your Nginx server and PHP Fast-Cgi.
+A simple Windows program to start and stop your Nginx server and PHP Fast-Cgi.  Useful for Dokuwiki and Taskpaper+ users, and in fact any non-database PHP app.
 
 How To Use
 ------
@@ -24,9 +24,9 @@ Place the 2 files (start-nginx.exe, start-nginx.ini) into the root of your Nginx
             start-nginx.ini
 ```
       
-By default the program assumes that the php executable (php-cgi-exe) is in the "php" folder, and that all Nginx are in the default "conf" folder.
+By default the program assumes that the php executable (php-cgi-exe) is in the `php` folder, and that all Nginx are in the default `conf` folder.
 
-Now double-click the "start-nginx.exe" program to start.  If all went well a new window should open.  Use the "Start" and "Stop" buttons to get your server going.
+Now double-click the `start-nginx.exe` program to start.  If all went well a new window should open.  Use the `Start` and `Stop` buttons to get your server going.
 
 Notes
 ------
@@ -35,4 +35,5 @@ The language can be changed in the start-nginx.ini file, if you would like to tr
 ------
 
 Author: Symon Bent, 2013-04-19, Madagascar
+
 Website: https://github.com/MrBertie/start-nginx
