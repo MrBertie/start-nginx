@@ -28,9 +28,16 @@ By default the program assumes that the php executable (php-cgi-exe) is in the `
 
 Now double-click the `start-nginx.exe` program to start.  If all went well a new window should open.  Use the `Start` and `Stop` buttons to get your server going.
 
-Notes
+Screenshots
 ------
-The language can be changed in the start-nginx.ini file, if you would like to translate it into your language; and the php folder can also be configured.
+
+!(https://taskpaperplus.googlecode.com/files/start-nginx.png)[Start Nginx]
+
+!(https://taskpaperplus.googlecode.com/files/stop-nginx.png)[Stop Nginx]
+
+Notes
+----
+The language can be changed in the `start-nginx.ini` file, if you would like to translate it into your language; and the php folder can also be configured.
 
 ------
 
