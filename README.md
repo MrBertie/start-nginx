@@ -6,7 +6,7 @@ A simple Windows program to start and stop your Nginx server and PHP Fast-Cgi.  
 Screenshots
 ------
 ![Start Nginx](https://taskpaperplus.googlecode.com/files/start-nginx.png)
-
+&nbsp;&nbsp;&nbsp;
 ![Stop Nginx](https://taskpaperplus.googlecode.com/files/stop-nginx.png)
 
 
