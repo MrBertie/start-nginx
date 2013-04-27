@@ -38,10 +38,10 @@ Now double-click the `start-nginx.exe` program to start.  If all went well a new
 
 Notes
 ----
-The language can be changed in the `start-nginx.ini` file, if you would like to translate it into your language; and the php folder can also be configured.
+The language can be changed in the `start-nginx.ini` file, if you would like to translate it into your language.  The php folder can also be configured here.
 
 ----
 
-Author: Symon Bent, 2013-04-19, Madagascar
+Author: Symon Bent, 2013-04-25, Madagascar
 
 Website: https://github.com/MrBertie/start-nginx
